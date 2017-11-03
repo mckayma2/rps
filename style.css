@@ -1,0 +1,50 @@
+body{
+width:50%;
+position: relative;
+
+}
+
+#container{
+background-color: blue;
+width:100%;
+position: relative;
+padding: 25%;
+border: 8px solid darkblue;
+}
+
+#box1{
+width:50%;
+background-color: cadetblue;
+display:block;
+margin: 0 auto;
+padding:50px;
+position: relative;
+border: 4px solid darkblue;
+}
+
+#rpsButton{
+background-color: silver;
+text-align:center;
+margin: 0;
+position:absolute;
+bottom:0;
+left:0;
+height:25%;
+width:100%;
+
+}
+#box1 h1{
+display:block;
+margin 0 auto;
+margin-top: -20px;
+text-align:center;
+color:white;
+
+}
+#box1 ul{
+text-align:center;
+color:white;
+}
+
+
+
